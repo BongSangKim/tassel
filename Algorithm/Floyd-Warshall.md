@@ -83,7 +83,7 @@ n = 3인 경우, (가장 작은 부분 문제 (D<sub>ij</sub> <sup>1</sup>))
 
 #### Pseudo Code
 
-![1711589752867](C:\Users\SSAFY\OneDrive\SSAFY\tassel\Algorithm\1711589752867.png)
+![1711589752867](https://github.com/BongSangKim/tassel/assets/47958731/86a2f3b2-8eec-42e5-8071-799831970923)
 
 
 
